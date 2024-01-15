@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A0B2744E-790E-4F4F-A415-CB2E3CA1329C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbScripts", "DbScripts", "{DCDC3091-E6A2-40D5-B731-C075817D177B}"
+	ProjectSection(SolutionItems) = preProject
+		ScriptsCriacao.sql = ScriptsCriacao.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B2744E-790E-4F4F-A415-CB2E3CA1329C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B2744E-790E-4F4F-A415-CB2E3CA1329C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B2744E-790E-4F4F-A415-CB2E3CA1329C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B2744E-790E-4F4F-A415-CB2E3CA1329C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD0C7A63-B0B7-4D44-B3DB-40C17C4547E5}
+	EndGlobalSection
+EndGlobal
